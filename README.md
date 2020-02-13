@@ -40,7 +40,7 @@ $ pip install djangorestframework-jwt
 $ pip install pylint
 ```
 
-#####Garantir que a última versão do pip está instalada:
+##### Garantir que a última versão do pip está instalada:
 
 ```sh
 $ python -m pip install --upgrade pip
