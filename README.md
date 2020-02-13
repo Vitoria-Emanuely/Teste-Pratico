@@ -48,9 +48,14 @@ $ python -m pip install --upgrade pip
 #### Instalar dependências do projeto:
 
 ```sh
-$ python -m pip install -r requirements.txt
 $ python manage.py makemigrations
 $ python manage.py migrate
+```
+##### Em outro terminal:
+
+```sh
+$ cd app
+$ npm install vue
 ```
 
 #### Para funcionar, executar o comando:
@@ -58,12 +63,7 @@ $ python manage.py migrate
 ```sh
 $ python manage.py runserver
 ```
-### Instalar o Vue (em outra janela do terminal):
 
-```sh
-$ cd app
-$ npm install vue
-```
 #### Para rodar:
 
 ```sh
