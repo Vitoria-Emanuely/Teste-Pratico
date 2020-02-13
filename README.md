@@ -58,13 +58,13 @@ $ cd app
 $ npm install 
 ```
 
-#### Para funcionar, executar o comando:
+#### Para funcionar, executar o comando na venv:
 
 ```sh
 $ python manage.py runserver
 ```
 
-#### Para rodar:
+#### Para rodar o vue:
 
 ```sh
 $ cd app
