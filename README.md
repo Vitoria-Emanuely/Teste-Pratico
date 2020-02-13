@@ -45,7 +45,7 @@ $ pip install pylint
 ```sh
 $ python -m pip install --upgrade pip
 ```
-#### Instalar dependências do projeto:
+#### Instalar banco de dados do projeto:
 
 ```sh
 $ python manage.py makemigrations
@@ -55,7 +55,7 @@ $ python manage.py migrate
 
 ```sh
 $ cd app
-$ npm install vue
+$ npm install 
 ```
 
 #### Para funcionar, executar o comando:
